@@ -4,5 +4,7 @@ int main() {
     int num;
     cout << "Please enter your number : ";
     cin >> num;
-    cout << "The number you have entered is " << num << "!!";
+    cout << "The number you have entered is " << num << "!!" << " Thankyou";
 }
+
+

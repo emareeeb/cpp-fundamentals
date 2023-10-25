@@ -17,7 +17,7 @@ int main() {
     cout << "\n";
     //SO; ab apan greeting pe khair-khairiyat append kare so that becomes a part of greeting permanently.
 
-// String Length : string.length
+// String Length : string.length()
     string alphabets = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     cout <<"The length of string is "<< alphabets.length() << "\n";
     cout << alphabets.length();
