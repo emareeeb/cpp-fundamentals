@@ -23,7 +23,7 @@ Explore a wide range of formulas, from the foundational to the advanced. These f
 3. [**Functions 📝**](formulas/functions.md)
 4. [**Object-Oriented Programming 🧩**](formulas/oop.md)
    ...
-   
+   //fix links linking 
 
 ## How to Use This Repository
 
