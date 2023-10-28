@@ -1,3 +1,4 @@
+
 # C++ Fundamental Formulas Repository
 
 🚀 Welcome to the C++ Fundamental Formulas repository! This knowledge hub is your gateway to understanding the intricate and foundational principles of the C++ programming language. Here, I've curated a comprehensive collection of essential C++ formulas to aid your programming journey. 📖
@@ -23,7 +24,8 @@ Explore a wide range of formulas, from the foundational to the advanced. These f
 3. [**Functions 📝**](formulas/functions.md)
 4. [**Object-Oriented Programming 🧩**](formulas/oop.md)
    ...
-   //fix links linking 
+   //herep://fix links linking
+//table
 
 ## How to Use This Repository
 
