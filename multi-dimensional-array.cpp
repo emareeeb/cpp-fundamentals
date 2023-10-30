@@ -19,8 +19,22 @@ int main() {
     //or we want to print 'F' which is the 2nd row and 2nd column:
     cout << "\n" << letters[1][1];            //so konsi row & column print karna hai uska -1 kardena bas!
 
+    cout << "\n\n";
+    /*LOOPONG THROUGH A multidimentional array:*/
 
-
+    /*
+        We know that we have declared :
+            string letters[2][4] ={
+                {"A", "B", "C", "D"},
+                {"E", "F", "G", "H"}
+            };
+    
+    */
+    for(int i = 0; i<2; i++){
+        for(int j = 0; j<4; j++){
+            cout << letters[i][j] << "\n";
+        }
+    }
 
 
 

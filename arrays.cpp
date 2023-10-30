@@ -33,4 +33,3 @@ int main() {
     //print and check : 
     cout << cakes[0];
 }
-
