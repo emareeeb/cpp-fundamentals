@@ -10,3 +10,5 @@ int main() {
     myfunction("Anas", 2);
     myfunction("Arhaan", 10);
 }
+
+/*Note that when you are working with multiple parameters, the function call must have the same number of arguments as there are parameters, and the arguments must be passed in the same order.*/
