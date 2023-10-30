@@ -32,4 +32,23 @@ int main(){
 // Print the structure members
     cout << myCar1.brand << " " << myCar1.model << " " << myCar1.year << "\n";
     cout << myCar2.brand << " " << myCar2.model << " " << myCar2.year << "\n";
+
+    cout << "\n\n";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
