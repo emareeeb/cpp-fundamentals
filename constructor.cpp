@@ -29,3 +29,7 @@ int main() {
   cout << carObj2.brand << " " << carObj2.model << " " << carObj2.year << "\n";
   return 0;
 }
+
+
+/*Just like functions, constructors can also be defined outside the class. First, declare the constructor inside the class, and then define it outside of the class by specifying the name of the class, followed by the scope resolution :: operator, followed by the name of the constructor (which is the same as the class):
+*/
