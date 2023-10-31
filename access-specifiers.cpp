@@ -20,6 +20,6 @@ int main() {
     myobject.x = 0;
     // myobject.y = 1;                                   //SHOWS ERROR : y is inaccessible.
 
-    cout << myobject.x << "\n" << myobject.y ;
+    cout << myobject.x << "\n";
 
 }
