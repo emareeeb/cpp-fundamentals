@@ -7,7 +7,7 @@ int main() {
         if (i % 2 == 0) {
             cout << i << "\n";
         }
-        i++; // Increment i within the loop
+        i++;      // Increment i within the loop
     }
     return 0;
 }
