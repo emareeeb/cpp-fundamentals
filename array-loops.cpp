@@ -16,7 +16,7 @@ int main() {
 
     cout << "\n\n";
 
-    //printing serial number wise with the value of that indes in the array:
+      //printing serial number wise with the value of that indes in the array:
     for(int x = 0; x < 5; x++){
         cout << x << " = " << cars[x] <<"\n";
     }
