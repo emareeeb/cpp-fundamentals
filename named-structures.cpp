@@ -9,20 +9,17 @@ using namespace std;
 
 struct myCar{
     string brand;
-    int year;
+    int year; 
 };
 
 int main() {
-
-    myCar car1;
+    myCar car1;      // we created an object named car1, hence the denotion is having the class name first and then followed by the new object we just created.
     car1.brand = "BMW";
     car1.year = 2023;
 
-    myCar car2;
+    myCar car2;               // new object is vreated by the name car2
     car2.brand = "Volvo";
     car2.year = 2020;
-
-
 }
     
 
