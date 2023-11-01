@@ -26,7 +26,7 @@ int main() {
         case 7:
             cout << "Sunday";  
             break; 
-        default:                                  // its always default. Not 'case default'.
+        default:      // its always default. Not 'case default'.
             cout << "There are only SEVEN days in a week. It CANT be " << day << "'th day" ;  
             break;                                                                           
     }
