@@ -7,5 +7,6 @@ int main() {
     cout << "It\'s alright, you can have both." << "\n";                              //It's alright
 
     //for new line we use \n
-    cout << "\tthis space is inserted using tab.";                              //tab escape seq : \t 
+    cout << "\tthis space is inserted using tab.";                              
+    //tab escape seq : \t 
 }
