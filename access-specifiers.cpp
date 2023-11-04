@@ -21,5 +21,6 @@ int main() {
     // myobject.y = 1;                                   //SHOWS ERROR : y is inaccessible.
 
     cout << myobject.x << "\n";
+    //edit ac.main
 
 }
