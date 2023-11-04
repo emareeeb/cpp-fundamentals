@@ -15,7 +15,7 @@ int main() {
 
     greeting();           //calling
 }
-
+//call
 void greeting() {                                     //defination
     cout << "Hello! AssalamuAlaikum WRWB!";
 }
