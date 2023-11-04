@@ -8,6 +8,6 @@ int main() {
     cin >> Y;
     sum = X + Y;
     cout << "The value of X + Y is : " << sum <<".\nTHANKYOU.";
-
+ //basic cin vs getline to be noted
 
 }
