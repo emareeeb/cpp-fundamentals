@@ -1,4 +1,5 @@
 #include<iostream>
+#include<stdio.h>     //simply include thi if you wanna use C as well
 using namespace std;
 int main() {
     int X, Y, sum;
